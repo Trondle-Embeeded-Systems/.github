@@ -3,7 +3,8 @@
 **Swiss precision in embedded design.**
 
 Welcome to the official GitHub organisation for **Tröndle Embedded Systems (TES)**.  
-We design, develop, and document high-quality embedded hardware and firmware — from concept to production.
+We design, develop, and document high-quality embedded hardware and firmware — from concept to production.<br/> 
+
 [Our Webiste](https://ntrondle.github.io/TES/).
 
 ---
