@@ -1,4 +1,4 @@
-# Tröndle Embedded Systems (TES)
+[# Tröndle Embedded Systems (TES)](https://ntrondle.github.io/TES/)
 
 **Swiss precision in embedded design.**
 
@@ -16,7 +16,7 @@ We design, develop, and document high-quality embedded hardware and firmware —
 ---
 
 ## 📂 Key Repositories
-- **[MicroFlip](https://github.com/Trondle-Embedded-Systems/MicroFlip)** – Compact, flexible PCB for embedded projects.
+- **[MicroFlip](https://github.com/Trondle-Embeeded-Systems/MicroFlip)** – Compact, flexible PCB for embedded projects.
 - *(more projects to come here...)*
 
 ---
