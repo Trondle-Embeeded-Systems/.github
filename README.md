@@ -31,7 +31,7 @@ We believe in:
 
 ## 📫 Contact
 Have a question, suggestion, or potential collaboration?  
-Reach out via GitHub Issues or email: **[your-email-here]**
+Reach out via GitHub Issues or email: **[hello@trondle.ch]**
 
 ---
 
