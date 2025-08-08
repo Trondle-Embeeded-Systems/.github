@@ -17,7 +17,7 @@ We design, develop, and document high-quality embedded hardware and firmware —
 
 ## 📂 Key Repositories
 - **[MicroFlip](https://github.com/Trondle-Embedded-Systems/MicroFlip)** – Compact, flexible PCB for embedded projects.
-- *(Add more project links as you grow)*
+- *(more projects to come here...)*
 
 ---
 
